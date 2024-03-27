@@ -4,10 +4,10 @@ Small Slider with JS-Library, CSS & HTML.
 Mobile first .
 
 ## Demo
-https://slider-swiper-js.netlify.app/
+https://sticky-navbar-2024.netlify.app/
 
 ## Screenshots
-![App Screenshot](screenshot/SCR-20240325-rfnr.png )
+![App Screenshot](screemshot/SCR-20240327-crwy.png )
 
 
 
