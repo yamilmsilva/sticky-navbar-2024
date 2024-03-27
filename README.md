@@ -1,7 +1,7 @@
-# Landing-page
+# sticky-navbar-2024
 
-Small Slider with JS-Library, CSS & HTML.
-Mobile first .
+Small Slider with plane JS, CSS & HTML.
+desktop first .
 
 ## Demo
 https://sticky-navbar-2024.netlify.app/
@@ -13,9 +13,7 @@ https://sticky-navbar-2024.netlify.app/
 
 ## Appendix
 
-I utilized JavaScript library : https://swiperjs.com/
-
-and for animating the buttons : css
+I utilized plane JavaScript, css, and html
 
 
 ## Note - Keep in mind
