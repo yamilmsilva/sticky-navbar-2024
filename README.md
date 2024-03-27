@@ -1,6 +1,6 @@
 # sticky-navbar-2024
 
-Small Slider with plane JS, CSS & HTML.
+Small basic sticky-navbar with plane JS, CSS & HTML.
 desktop first .
 
 ## Demo
