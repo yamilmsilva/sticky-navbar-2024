@@ -3,12 +3,12 @@
 Small basic sticky-navbar with plane JS, CSS & HTML.
 desktop first .
 
-## Demo
-https://sticky-navbar-2024.netlify.app/
 
 ## Screenshots
 ![App Screenshot](screemshot/SCR-20240327-crwy.png )
 
+## Demo
+https://sticky-navbar-2024.netlify.app/
 
 
 ## Appendix
